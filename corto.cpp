@@ -61,7 +61,7 @@ int main(){
                 break;
             case 3:
                 cout<<" a) Laptop Basica: $900\n b)Tablet Estudiantil: $600\n c)Chromebook: $700\n";
-                cout<<" d)Laptop Avanzada: $1500\n  e)Tablet Pro: $1200\n f)Estacion de Trabajo: $2000\n";
+                cout<<" d)Laptop Avanzada: $1500\n e)Tablet Pro: $1200\n f)Estacion de Trabajo: $2000\n";
                 cin>>opcion;
                 switch(opcion){
                     case 'a':
